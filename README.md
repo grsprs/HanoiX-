@@ -3,7 +3,6 @@
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://go.dev/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![CI Status](https://github.com/grsprs/HanoiX-/workflows/CI/badge.svg)](https://github.com/grsprs/HanoiX-/actions)
-[![Go Report Card](https://goreportcard.com/badge/github.com/grsprs/HanoiX-)](https://goreportcard.com/report/github.com/grsprs/HanoiX-)
 
 Professional implementation of the classic Towers of Hanoi problem in Go, demonstrating clean architecture, idiomatic Go code, comprehensive testing, and performance benchmarking.
 
