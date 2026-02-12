@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![CI Status](https://github.com/grsprs/hanoix/workflows/CI/badge.svg)](https://github.com/grsprs/hanoix/actions)
 
-Professional implementation of the classic Towers of Hanoi problem in Go, demonstrating clean architecture, idiomatic Go code, comprehensive testing, and performance benchmarking.
+Implementation of the classic Towers of Hanoi problem in Go with recursive and iterative solvers, comprehensive testing, and performance benchmarks.
 
 ## Author
 
