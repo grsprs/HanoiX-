@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![CI Status](https://github.com/grsprs/hanoix/workflows/CI/badge.svg)](https://github.com/grsprs/hanoix/actions)
 [![Go Report Card](https://goreportcard.com/badge/github.com/grsprs/hanoix)](https://goreportcard.com/report/github.com/grsprs/hanoix)
+[![codecov](https://codecov.io/gh/grsprs/hanoix/branch/main/graph/badge.svg)](https://codecov.io/gh/grsprs/hanoix)
 
 Implementation of the classic Towers of Hanoi problem in Go with recursive and iterative solvers, comprehensive testing, and performance benchmarks.
 

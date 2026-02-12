@@ -21,7 +21,14 @@ jobs:
       run: go build -v ./...
     
     - name: Test
-      run: go test -v -cover ./...
+      run: go test -v -coverprofile=coverage.out -covermode=atomic ./...
+    
+    - name: Upload coverage to Codecov
+      uses: codecov/codecov-action@v3
+      with:
+        file: ./coverage.out
+        flags: unittests
+        name: codecov-hanoix
     
     - name: Vet
       run: go vet ./...
