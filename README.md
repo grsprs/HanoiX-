@@ -5,6 +5,7 @@
 [![CI Status](https://github.com/grsprs/hanoix/workflows/CI/badge.svg)](https://github.com/grsprs/hanoix/actions)
 [![Go Report Card](https://goreportcard.com/badge/github.com/grsprs/hanoix?style=flat)](https://goreportcard.com/report/github.com/grsprs/hanoix)
 [![codecov](https://codecov.io/gh/grsprs/hanoix/branch/main/graph/badge.svg)](https://codecov.io/gh/grsprs/hanoix)
+[![Go Reference](https://pkg.go.dev/badge/github.com/grsprs/hanoix.svg)](https://pkg.go.dev/github.com/grsprs/hanoix)
 
 Implementation of the classic Towers of Hanoi problem in Go with recursive and iterative solvers, comprehensive testing, and performance benchmarks.
 
